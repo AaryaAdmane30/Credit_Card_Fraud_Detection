@@ -62,8 +62,7 @@ A machine learning model to detect fraudulent credit card transactions using log
 | Metric     | Training Accuracy | Test Accuracy |
 |------------|-------------------|----------------|
 | Accuracy   | 96%+              | ~97%  |
-| Recall     | High (important for fraud detection!) |
-| F1-Score   | Balanced performance between precision and recall |
+
 
 ---
 
